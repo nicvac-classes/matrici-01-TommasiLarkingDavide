@@ -34,6 +34,5 @@ public static void esercizio3() {
     }
 
     UtilsMatrice.visualizza(M);
-
 }
 }
