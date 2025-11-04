@@ -16,7 +16,7 @@ public class Esercizio {
     public static void main(String[] args) {
 
         System.out.println();
-        System.out.println("ESERCIZIO 1: ");
+        System.out.println("ESERCIZIO 1 davide: ");
         System.out.println("----- ----- -----");
         esercizio1();
         
